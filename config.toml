@@ -27,7 +27,7 @@ disqusShortname = ""
 [params]
     math = true
     # Blog description at the top of the homepage. Supports markdown.
-    description = "雑多なメモ書き"
+    #description = "雑多なメモ書き"
 
     showReadMore = false
 
