@@ -13,7 +13,8 @@
       <pubDate>Tue, 22 Jun 2021 11:47:26 +0900</pubDate>
       
       <guid>https://keitaro1020.github.io/blog/posts/20210622/blog_structure/</guid>
-      <description></description>
+      <description>SSG(Static Site Generator) として、Hugo を使用しました。
+ソースコードをGithubで管理し、Github Actionsを用いてビルドし、Github Pagesでホストしています。</description>
     </item>
     
     <item>

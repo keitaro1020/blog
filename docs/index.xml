@@ -5,6 +5,36 @@
     <link>https://keitaro1020.github.io/blog/</link>
     <description>Recent content on けいたろのメモ</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ja</language><atom:link href="https://keitaro1020.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <language>ja</language>
+    <lastBuildDate>Tue, 22 Jun 2021 11:47:26 +0900</lastBuildDate><atom:link href="https://keitaro1020.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ブログの構成</title>
+      <link>https://keitaro1020.github.io/blog/posts/20210622/blog_structure/</link>
+      <pubDate>Tue, 22 Jun 2021 11:47:26 +0900</pubDate>
+      
+      <guid>https://keitaro1020.github.io/blog/posts/20210622/blog_structure/</guid>
+      <description>SSG(Static Site Generator) として、Hugo を使用しました。
+ソースコードをGithubで管理し、Github Actionsを用いてビルドし、Github Pagesでホストしています。</description>
+    </item>
+    
+    <item>
+      <title>ブログ始めました</title>
+      <link>https://keitaro1020.github.io/blog/posts/20210621/first_post/</link>
+      <pubDate>Mon, 21 Jun 2021 19:14:11 +0900</pubDate>
+      
+      <guid>https://keitaro1020.github.io/blog/posts/20210621/first_post/</guid>
+      <description>雑多なメモ書きを晒していきます。
+ネタはこれから考えます。</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://keitaro1020.github.io/blog/archives/</link>
+      <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://keitaro1020.github.io/blog/archives/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
